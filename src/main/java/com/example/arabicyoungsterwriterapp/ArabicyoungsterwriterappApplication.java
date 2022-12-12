@@ -40,21 +40,6 @@ public class ArabicyoungsterwriterappApplication {
         FirebaseConfig f = new FirebaseConfig();
         f.firebaseDatabase();
         SpringApplication.run(ArabicyoungsterwriterappApplication.class, args);
-
-        User user = new User("user1", "password", "User One", "user1");
-
-        // Mock the userService.registerUser() method to return true
-//        when(userService.registerUser(user)).thenReturn(true);
-
-        UserService userService = new UserService(new UserRepository());
-        StoryService storyService = new StoryService(new StoryRepositoryImpl());
-        storyService.seedGetLast();
-//        System.out.println(userService.login(user));
-        try {
-            System.out.println(userService.getUsers());
-        } catch (ExecutionException | InterruptedException e) {
-            throw new RuntimeException(e);
-        }
     }
 
 }
