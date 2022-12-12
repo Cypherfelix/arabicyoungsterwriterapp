@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "arabicstoryclient-567df",
+  "private_key_id": "5b705755acbeea33eb206c79da9e9844361cbf5c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDBKfgyI32HX2tf\nqiNmSMrEvShCkSzKqLoblwyNEqhc55wFNeFjfBjelCnBLgpe+Yffav+q9PBKTLzX\nwlygC5ZxZ3b5iWmWwLA/FbFINoKuKmjUD+bukOCcX7P4N6m7/W+E+hiPHZPoiIhJ\nxdxAO6emsEpWpI2HMyCKpOFF6kM5fBut/jJxiQ246s3D5yAGaFPkkBuTfnJXfwK4\nPjJEtQ7Nn0QzV8w91SnyfO3bRRWANFkadzV4zQ87QctN4v5/hwapzRFKu/vL37ao\nSVZVvICPIP5UvHPTxf1sSqyJN/fXmwgL7a7s2R0StOvZGKGPo+lLGws7kMMPGXNK\nntcsniOrAgMBAAECggEASy3thn4fpidyH+qVGoMsQAQq/jWIjFu9C23vmZxwYLBY\nHgMJdPHgsAhUc/ZaXPqbck4vsbbhKtnRCdyAtl2sMPkG6jocGWtnbTYhKKzmkai5\n4gdKZwGGGfZ5khr/+cW6uLOqCVGGtpMlECls/qb5KjwkwrIKz1sLyEpBzzdM8Lr5\nP8zdC7sSBbQm3Q8smaFPJXqkHzi300OigtQaIzUwwN9dK+B7+JDVBnAnH2PWE0Vq\nqCDHeAhw7TjxaNW53K0KeUK90+wt3AM33jY541HSqQJ7H+ZpekTkAYkB/suCUR2w\nXE753HLs9LhDTMCAM2Eu/GaCgh5+Okn1Lt4O9K51qQKBgQD/QPngfl+pVf+OekV4\nMiWwcFFvWhpv+nukuwL4BNEGZiA9K0rUckhYM4F0pbY+eebEMSJV0NxQHm20t3m+\ndCJycpeIZP48n639E05ilZAtaNO6UVw5hsfyis7maTAEdUveUjsTdG/Cz1bTffng\nMDWKXsi27PSbem2SDAfDX266LwKBgQDBuob/EqUYD7cFlf0NDxCZVFS8pSx/QdmR\nSnnQs/qs69sZ/OdSnVL5KA/xNbBY1cq6HwWwpam9Lc+8cTmFEj0dNdeNbV+1EvOm\njvzRY/DjmyeoX7xtzRBdxxZj65sGHaZVvDvIsL0Anvz7bkL8yjH1Kb/yznwI0jkg\n1lbJGk0bRQKBgBJJPl110DaaYZd8bPOibA7KzRq0EsbI5Ai2GQ1ZkvvpXw/ixRaZ\nJVOkRPbtVDP/maeeeX46Wz4mH+fdaQxa14jpaq+rxIblTZqewnPPkSefpeNoJro8\nTKC0jwP0ryrymD/SFkdbhRIotmiqUrdb3MoP5kMskI1+5NCcqgW2FYGjAoGAE6AA\nsvBBlzloUgGKu/rttIqtdtrIsi+KicRgqLrCxyexb2WGTYEweZsMWmQU9DrcKZSg\n7+8oTcjJRY62w/tAA6iDqIkO6/n6gsHzbIbSTUxXbSAdp4XhhY54fzDL6IeyZPcH\nm2IEE38Ho7Tcxlz5SJutHTy7pe0d6mysJ/0pGH0CgYEA1TIPL6DMz6w5lo8bjNMU\njvu6dbmTQrnO7WRRSs92XaUBtm9pJCD3Vr/pi7+A0gYiRX5GQTmHKw1DufORZcts\nvFLWNUtE7pQbSfeANfuwOaaHNOAYEyKqMONfjPtrWXBGSdxumbYeUzCvx4ZMcsMc\nlZ57ms+gv/L9o99siDAUQdk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-jsn8x@arabicstoryclient-567df.iam.gserviceaccount.com",
+  "client_id": "107487956266404580332",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-jsn8x%40arabicstoryclient-567df.iam.gserviceaccount.com"
+}

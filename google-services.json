@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "700458399846",
+    "project_id": "arabicstoryclient",
+    "storage_bucket": "arabicstoryclient.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700458399846:android:3f76e86e58114f175615a7",
+        "android_client_info": {
+          "package_name": "com.example.arabicyoungsterwriterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700458399846-9bbqr3bnsvmnkuih4qar9komtinsg37v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcm67I8AIxpV9nAsEIZj9s8LYoN3fPF8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700458399846-9bbqr3bnsvmnkuih4qar9komtinsg37v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
